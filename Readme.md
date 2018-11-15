@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Contact.cs](./CS/CurrentObjectParameter.Module/Contact.cs) (VB: [Contact.vb](./VB/CurrentObjectParameter.Module/Contact.vb))
+<!-- default file list end -->
 # OBSOLETE - How to Use the Current Object Parameter (v9.2.4 - v13.1.12)
 
 
